@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "bf10a7ac-22e2-40ef-923b-bfd3b756cefa++4974",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "bf10a7ac-22e2-40ef-923b-bfd3b756cefa++4974" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "bf10a7ac-22e2-40ef-923b-bfd3b756cefa++4974" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E22A5DB-FB0B-49FD-A60A-6C90D92E593E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "bf10a7ac-22e2-40ef-923b-bfd3b756cefa++4974" : "Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LearnSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LearnSwift.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.mindtree.com\/PnGStudentConventionApp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "bf10a7ac-22e2-40ef-923b-bfd3b756cefa++4974"
+    }
+  ]
+}
