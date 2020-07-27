@@ -71,6 +71,6 @@ extension String {
   }
 }
 
-var teststring="({})"
+var teststring="{{{{{{{{{{{"
 
 teststring.hasBalancedParentheses
